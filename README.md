@@ -10,7 +10,7 @@ Our Mission:
 ------------
 
 Understand human behavior web navigation patterns to train an AI model that distinguishes between human and robots. This is persued with the objective to help companies
-and website owners in general circumvent malicious bot activies.
+and website owners circumvent malicious bot activies.
 
 Data collected:
 ---------------
